@@ -8,27 +8,3 @@
   grid-template-columns: 2fr 10fr;
   grid-gap: 10px;
 }
-
-.header {
-  grid-area: header;
-  background-color: darkolivegreen;
-}
-
-.header img {
-  width: 20px;
-}
-
-.nav {
-  grid-area: nav;
-  background-color: peru;
-}
-
-.content {
-  grid-area: content;
-  background-color: dodgerblue;  
-  margin: 0 auto;
-}
-
-.content img {
-  width: 100%;
-}
